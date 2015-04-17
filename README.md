@@ -13,7 +13,7 @@ From the bower.json file
     {
 	    "...
 	    "dependencies": {
-	        "auto-font-size": "0.0.7"
+	        "auto-font-size": "0.0.8"
 	    },
 		...
 	}
